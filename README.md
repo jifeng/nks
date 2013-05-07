@@ -49,6 +49,9 @@ Nodejs Knowledge Structure
     - 版本管理
         - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
         - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
+- 学习资料
+    - [Node.js专业中文社区](http://cnodejs.org/)
+    - [NAE](http://cnodejs.net/)
 
 
 
